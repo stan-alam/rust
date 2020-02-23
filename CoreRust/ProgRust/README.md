@@ -28,6 +28,10 @@ int main(int argc, char **argv) {
   return 0;
 }
 ```
+<p align="center">
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/ProgRust/images/01/scrncap_3A.png" width="80%" height="80%">
+</p>
+
 <a>
   <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/ProgRust/images/01/ProgRust01%20-%206.png" width="80%" height="80%">
 </a>
