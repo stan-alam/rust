@@ -106,7 +106,7 @@ scrncap
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%209png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%209.png" width="80%" height="80%">
 </a>
 
 <a>
