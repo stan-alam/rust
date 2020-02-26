@@ -4,6 +4,9 @@
   <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/01/RustPrg01%20-%201.png" width="80%" height="80%">
 </a>
 
+**writing parsers like it is 2017**
+http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf
+
 <a>
   <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/01/RustPrg01%20-%202.png" width="80%" height="80%">
 </a>
