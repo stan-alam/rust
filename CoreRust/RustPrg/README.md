@@ -59,5 +59,56 @@ https://www.newscientist.com/article/mg24332500-900-what-the-quark-why-matters-m
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/01/RustPrg01%20-%205.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/01/RustPrg01%20-%2015.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/01/RustPrg01%20-%2017.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%201.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%202.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%203.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%204.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%205.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%206A.png" width="80%" height="80%">
+</a>
+
+```text
+scrncap
+```
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%206B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%207.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%208.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%209png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/RustPrg/images/02/RustProg02%20-%2010.png" width="80%" height="80%">
 </a>
