@@ -16,3 +16,4 @@ Use this for Windows linux subsystem, both are not secure because you're using a
 
 
          curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
