@@ -67,3 +67,9 @@ int main(int argc, char **argv) {
 <a>
   <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/ProgRust/images/01/ProgRust01%20-%2012.png" width="80%" height="80%">
 </a>
+
+# 02
+
+<a>
+  <img src="https://github.com/stan-alam/rust/blob/develop/CoreRust/ProgRust/images/02/ProgRust02%20-%201.png" width="80%" height="80%">
+</a>
