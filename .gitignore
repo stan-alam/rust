@@ -15,9 +15,8 @@ Cargo.lock
 game/workspaces/stanworks/Cargo.lock
 # ignore all .lock files recursively
 **/*.lock
-# ignore all rust binaries in the game directory
-game/**/*.rs
-
+# ignore all .log files recursively
+**/*.log
 # ignore all .bin files recursively
 **/*.bin
 # ignore all target directories
