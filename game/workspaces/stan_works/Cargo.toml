@@ -1,0 +1,9 @@
+[package]
+name = "stan_works"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[workspace]
+members = [ "Hello_Multiverse", "hello_bevy"]
