@@ -1,0 +1,6 @@
+[workspace]
+members = ["device_query]
+resolver = "2"
+[dependencies]
+
+cust = "0.3"
